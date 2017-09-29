@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace NeuroNetLab1
+namespace NeuroLabWIthGraphic
 {
     class TrainingSet
     {

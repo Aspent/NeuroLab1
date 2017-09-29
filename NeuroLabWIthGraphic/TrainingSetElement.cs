@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace NeuroNetLab1
+namespace NeuroLabWIthGraphic
 {
     class TrainingSetElement
     {

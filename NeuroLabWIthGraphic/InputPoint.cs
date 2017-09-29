@@ -1,4 +1,4 @@
-﻿namespace NeuroNetLab1
+﻿namespace NeuroLabWIthGraphic
 {
     class InputPoint
     {
